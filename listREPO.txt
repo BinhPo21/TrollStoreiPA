@@ -8,3 +8,4 @@ https://github.com/CokePokes/AppStorePlus-TrollStore
 https://github.com/sourcelocation/AirTroller
 https://github.com/sourcelocation/DebToIPA
 https://github.com/opa334/TrollNonce
+https://github.com/powenn/ModMyIPA
